@@ -1,0 +1,11 @@
+livekit-agents
+livekit-plugins-deepgram
+livekit-plugins-google
+livekit-plugins-openai[vertex]
+livekit-plugins-silero
+python-dotenv
+aiofile
+livekit-plugins-cartesia
+livekit-plugins-openai
+livekit-plugins-rag
+annoy==1.17.3
